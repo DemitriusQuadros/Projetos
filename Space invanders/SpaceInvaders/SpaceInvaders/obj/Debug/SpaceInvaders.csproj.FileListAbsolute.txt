@@ -1,0 +1,9 @@
+C:\Users\Dime\Desktop\Certificação C#\Space invanders\SpaceInvaders\SpaceInvaders\bin\Debug\SpaceInvaders.exe.config
+C:\Users\Dime\Desktop\Certificação C#\Space invanders\SpaceInvaders\SpaceInvaders\bin\Debug\SpaceInvaders.exe
+C:\Users\Dime\Desktop\Certificação C#\Space invanders\SpaceInvaders\SpaceInvaders\bin\Debug\SpaceInvaders.pdb
+C:\Users\Dime\Desktop\Certificação C#\Space invanders\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.frmSpaceInvaders.resources
+C:\Users\Dime\Desktop\Certificação C#\Space invanders\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.Properties.Resources.resources
+C:\Users\Dime\Desktop\Certificação C#\Space invanders\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.csproj.GenerateResource.Cache
+C:\Users\Dime\Desktop\Certificação C#\Space invanders\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.exe
+C:\Users\Dime\Desktop\Certificação C#\Space invanders\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.pdb
+C:\Users\Dime\Desktop\Certificação C#\Space invanders\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.csprojResolveAssemblyReference.cache
